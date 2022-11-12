@@ -2374,6 +2374,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ### Scrapers
 
+- [katana](https://github.com/projectdiscovery/katana) — A next-generation crawling and spidering framework
 - [colly](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers.
 - [dataflowkit](https://github.com/slotix/dataflowkit) - Web scraping Framework to turn websites into structured data.
 - [go-recipe](https://github.com/kkyr/go-recipe) - A package for scraping recipes from websites.
